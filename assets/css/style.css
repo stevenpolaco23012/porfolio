@@ -2,18 +2,16 @@
 
 :root {
   --color-body: #b6cbce;
-  --color-heading: #eef3db;
-  --color-base: #057786;
+  --color-heading: #ffffff;
+  --color-base: #0577867a;
   --color-base2: #022a30;
-  --color-brand: #FFFF00;
+  --color-brand: #ffff00a6;
   --color-brand2: #46540f;
   --sidbar-width: 240px;
   --font-base: "Kanit";
 }
 
-body {
-  background-image: url(/Responsive_Portfolio-master/assets/images/animado.gif);
-}
+
 
 
 .card .img {
@@ -91,7 +89,7 @@ img {
   justify-content: center;
   padding-top: 80px;
   padding-bottom: 80px;
-  border-bottom: 2px solid rgba(255, 255, 255, 0.355);
+  border-bottom: 2px solid rgb(255, 255, 255);
 }
 
 .bg-base {
